@@ -1,3 +1,6 @@
+<!--   pdf_document: default
+ md_document -->
+
 # 1) Clustering and PCA
 
 ## 1-1 Procedures
