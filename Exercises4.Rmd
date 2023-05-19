@@ -3,8 +3,8 @@ title: "Exercise 4"
 author: "Arindam Chatterjee (UT EID - AC83995)"
 date: "`r Sys.Date()`"
 output:
-  md_document: default
   pdf_document: default
+  md_document: default
   word_document: default
 ---
 
@@ -13,6 +13,8 @@ output:
 
 ---
 output:
+  md_document: default
+  pdf_document: default
   word_document: default
   html_document: default
 ---
